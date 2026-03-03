@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BharathPujari29
+- 👋 Hi, I’m @BharathPujari
 - 👀 I’m interested in java, AEM development and web development
 - 🌱 I’m currently learning Java & latest technologies
 - 💞️ I’m looking to collaborate on new trends on AI
